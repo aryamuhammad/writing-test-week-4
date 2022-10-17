@@ -2,11 +2,10 @@
 
 
 
-Nama : Muhammad Arya Wirawan
-Track : Front End Web Development
-Group Track : 2
-Mentor : Thoriq Nur Faizal
-
+Nama : Muhammad Arya Wirawan     
+Track : Front End Web Development      
+Group Track : 2      
+Mentor : Thoriq Nur Faizal      
 
 ### Asynschronous - Fetch & Async Await
 - API merupakan perantara antara aplikasi front-end dengan server. Untuk dapat berinteraksi dengan server, aplikasi front end memerlukan pelayan/perantara yaitu API.
